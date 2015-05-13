@@ -1,0 +1,2 @@
+# TextMining
+In this project, there are two major tasks: text data processing and text categorization. In text data processing, we have done tokenization, stemming, normalization, etc. Also, vector space model and statistical language models are used to retrieve similar documents to query. In text categorization, we build a text classification system which includes feature selection, classifiers (Naive Bayes and K Nearest Neighbor using brute force and random vectors), cross validation, and parameter tuning. 
